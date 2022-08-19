@@ -1,0 +1,57 @@
+D:\Analisis\AyR\AyR\bin\Debug\AyR.exe
+D:\Analisis\AyR\AyR\bin\Debug\AyR.pdb
+D:\Analisis\AyR\AyR\bin\Debug\AyR.xml
+D:\Analisis\AyR\AyR\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.frmHome.resources
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.Resources.resources
+D:\Analisis\AyR\AyR\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Analisis\AyR\AyR\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.exe
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.xml
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.pdb
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.frmPedInsp.resources
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.frmProcesarPago.resources
+D:\Analisis\AyR\AyR\obj\x86\Debug\AyR.frmServicios.resources
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.exe
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.xml
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.pdb
+E:\Analisis\AyR Final\AyR\bin\Debug\AyR.exe
+E:\Analisis\AyR Final\AyR\bin\Debug\AyR.pdb
+E:\Analisis\AyR Final\AyR\bin\Debug\AyR.xml
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.frmHome.resources
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.Resources.resources
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.frmPedInsp.resources
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.frmProcesarPago.resources
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\AyR.frmServicios.resources
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Analisis\AyR Final\AyR\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.exe
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.xml
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.pdb
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\bin\Debug\AyR.exe
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\bin\Debug\AyR.pdb
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\bin\Debug\AyR.xml
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.frmHome.resources
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.Resources.resources
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.frmPedInsp.resources
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.frmProcesarPago.resources
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.frmServicios.resources
+C:\Users\manue\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.vbproj.GenerateResource.Cache
+C:\Users\micaelaf7259\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.exe
+C:\Users\micaelaf7259\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.xml
+C:\Users\micaelaf7259\Desktop\AyR Final\AyR Final\AyR\obj\x86\Debug\AyR.pdb
+D:\AyR Final\AyR\obj\x86\Debug\AyR.exe
+D:\AyR Final\AyR\obj\x86\Debug\AyR.xml
+D:\AyR Final\AyR\obj\x86\Debug\AyR.pdb
+D:\AyR Final\AyR\bin\Debug\AyR.exe
+D:\AyR Final\AyR\bin\Debug\AyR.pdb
+D:\AyR Final\AyR\bin\Debug\AyR.xml
+D:\AyR Final\AyR\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AyR Final\AyR\obj\x86\Debug\AyR.frmHome.resources
+D:\AyR Final\AyR\obj\x86\Debug\AyR.Resources.resources
+D:\AyR Final\AyR\obj\x86\Debug\AyR.frmPedInsp.resources
+D:\AyR Final\AyR\obj\x86\Debug\AyR.frmProcesarPago.resources
+D:\AyR Final\AyR\obj\x86\Debug\AyR.frmServicios.resources
+D:\AyR Final\AyR\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\AyR Final\AyR\obj\x86\Debug\GenerateResource.write.1.tlog
